@@ -1,0 +1,6 @@
+p[name]{color:blue;}
+p[name="3"]{color:coral;}
+#tuna{color:antiquewhite;}
+p.tuna{color:red;}
+
+p.jean ~ p{color:cyan}
